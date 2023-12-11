@@ -1,4 +1,4 @@
-# Archivo INGENIA_Modulo_C:
+# **Archivo INGENIA_Modulo_C:**
 ### Descripcion del trabajo de sostenibilidad. Fases del trabajo.
 
 ## Fase inicial: Descripción del contexto e identificación de los grupos de interés y ámbitos de sostenibilidad del Ingenia.
@@ -42,4 +42,4 @@
 
 ------------------------------------------------------------------------------------------------------------------------
 
-**Archivo** Sostenibilidad_Ambiental_Nov-23: Descripcion tareas de cada fase del trabajo. Herramientas disponibles.
+# **Archivo** Sostenibilidad_Ambiental_Nov-23: Descripcion tareas de cada fase del trabajo. Herramientas disponibles.
