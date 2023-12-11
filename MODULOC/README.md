@@ -1,13 +1,13 @@
 **Archivo INGENIA_Modulo_C:** Descripcion del trabajo de sostenibilidad. Fases del trabajo.
 
 *Fase inicial:* Descripción del contexto e identificación de los grupos de interés y ámbitos de sostenibilidad del Ingenia.
-[]  1. Determinar la perspectiva desde la que se quiere realizar el análisis: producto, proyecto, organización, empresa, política,….).
-[]  2. Identificar los grupos de interés a lo largo de las fases del ciclo de vida que se haya elegido considerar.
-[]  3. Identificar los ámbitos de sostenibilidad del sector y del proyecto concreto en las diferentes dimensiones. Se pueden considerar:
-[]    3.1. Posibles riesgos y daños que se puedan producir a lo largo del ciclo de vida.
-[]    3.2. Posibles mejoras del valor del producto (calidad, intereses y demandas de los grupos de interés, beneficios ambientales,...).
-[]    3.3. Contexto regulatorio.
-[]    3.4. Aspectos controvertidos: éticos, legales, sociales, ambientales, ...
+1. [] Determinar la perspectiva desde la que se quiere realizar el análisis: producto, proyecto, organización, empresa, política,….).
+2. [] Identificar los grupos de interés a lo largo de las fases del ciclo de vida que se haya elegido considerar.
+3. [] Identificar los ámbitos de sostenibilidad del sector y del proyecto concreto en las diferentes dimensiones. Se pueden considerar:
+  3.1. [] Posibles riesgos y daños que se puedan producir a lo largo del ciclo de vida.
+  3.2. [] Posibles mejoras del valor del producto (calidad, intereses y demandas de los grupos de interés, beneficios ambientales,...).
+  3.3. [] Contexto regulatorio.
+  3.4. [] Aspectos controvertidos: éticos, legales, sociales, ambientales, ...
 
 *Fase 1:* Descripción del ciclo de vida completo e) identificación de los principales factores relacionados con la sostenibilidad.
 []  1. Diagrama de flujo que describa todas las etapas del ciclo de vida.
