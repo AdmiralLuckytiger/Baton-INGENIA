@@ -1,6 +1,7 @@
-**Archivo INGENIA_Modulo_C:** Descripcion del trabajo de sostenibilidad. Fases del trabajo.
+# Archivo INGENIA_Modulo_C:
+### Descripcion del trabajo de sostenibilidad. Fases del trabajo.
 
-*Fase inicial:* Descripción del contexto e identificación de los grupos de interés y ámbitos de sostenibilidad del Ingenia.
+## Fase inicial: Descripción del contexto e identificación de los grupos de interés y ámbitos de sostenibilidad del Ingenia.
 1. [] Determinar la perspectiva desde la que se quiere realizar el análisis: producto, proyecto, organización, empresa, política,….).
 2. [] Identificar los grupos de interés a lo largo de las fases del ciclo de vida que se haya elegido considerar.
 3. [] Identificar los ámbitos de sostenibilidad del sector y del proyecto concreto en las diferentes dimensiones. Se pueden considerar:
@@ -9,7 +10,7 @@
    3.3. [] Contexto regulatorio.
    3.4. [] Aspectos controvertidos: éticos, legales, sociales, ambientales, ...
 
-*Fase 1:* Descripción del ciclo de vida completo e) identificación de los principales factores relacionados con la sostenibilidad.
+## Fase 1: Descripción del ciclo de vida completo e) identificación de los principales factores relacionados con la sostenibilidad.
 []  1. Diagrama de flujo que describa todas las etapas del ciclo de vida.
 []  2. Justificación de la orientación de la valoración y las fronteras del estudio.
 []  3. Entradas y salidas del sistema y mecanismos relevantes.
@@ -22,7 +23,7 @@
 []    4.2. ANEXO 4: CATEGORÍAS DE IMPACTOS SOCIALES.
 []    4.3. SDG ImpactAssesmentTool.
 
-*Fase 2:* Selección y descripción de los impactos más relevantes.
+## Fase 2: Selección y descripción de los impactos más relevantes.
 []  1. La importancia magnitud de dichos impactos en algún os GGII.
 []  2. La oportunidad que representa para crear valor compartido.
 []  3. La capacidad para poder incidir en ellos dentro del proyecto.
@@ -33,7 +34,7 @@
     • Al menos uno que se integre de forma efectiva en el proyecto.
     • Justificación de la no inclusión de ninguno.
 
-*Fase 3 - Social:* Investigación de algún impacto del ámbito social.
+## Fase 3 - Social: Investigación de algún impacto del ámbito social.
 []  1. Documentar el diálogo directo con grupos de interés, al menos uno “tradicional” y al menos uno “no tradicional”.
 []  2. Documentar la evaluación directa del producto con grupos de interés.
 []  3. Trabajo en profundidad sobre algún dilema ético relacionado con el proyecto.
