@@ -11,34 +11,34 @@
    - [ ] Aspectos controvertidos: éticos, legales, sociales, ambientales, ...
 
 ## Fase 1: Descripción del ciclo de vida completo e) identificación de los principales factores relacionados con la sostenibilidad.
-1. Diagrama de flujo que describa todas las etapas del ciclo de vida.
-2. Justificación de la orientación de la valoración y las fronteras del estudio.
-3. Entradas y salidas del sistema y mecanismos relevantes.
-4. Identificación de las categorías de impacto más relevantes: ASUNTOS RELEVANTES (materialidad).
-   - ANEXO 3: IDENTIFICACIÓN DE ASPECTOS ÉTICOS RELEVANTES RELACIONADOS CON EL PROYECTO:
-      - Principio de no maleficencia: evitar causar daño a otros.
-      - Principio de beneficencia: contribuir al bienestar social.
-      - Principio de justicia.
-      - Principio de autonomía.
-   - ANEXO 4: CATEGORÍAS DE IMPACTOS SOCIALES.
-   - SDG ImpactAssesmentTool.
+1. [ ] Diagrama de flujo que describa todas las etapas del ciclo de vida.
+2. [ ] Justificación de la orientación de la valoración y las fronteras del estudio.
+3. [ ] Entradas y salidas del sistema y mecanismos relevantes.
+4. [ ] Identificación de las categorías de impacto más relevantes: ASUNTOS RELEVANTES (materialidad).
+   - [ ] ANEXO 3: IDENTIFICACIÓN DE ASPECTOS ÉTICOS RELEVANTES RELACIONADOS CON EL PROYECTO:
+      - [ ] Principio de no maleficencia: evitar causar daño a otros.
+      - [ ] Principio de beneficencia: contribuir al bienestar social.
+      - [ ] Principio de justicia.
+      - [ ] Principio de autonomía.
+   - [ ] ANEXO 4: CATEGORÍAS DE IMPACTOS SOCIALES.
+   - [ ] SDG ImpactAssesmentTool.
 
 ## Fase 2: Selección y descripción de los impactos más relevantes.
-[]  1. La importancia magnitud de dichos impactos en algún os GGII.
-[]  2. La oportunidad que representa para crear valor compartido.
-[]  3. La capacidad para poder incidir en ellos dentro del proyecto.
-[]  4. La facilidad de profundizar en su análisis , ya sea cuantitativo o cualitativo.
-  Seleccionar entre 2 y 6 impactos:
-    • Al menos uno relativo a aspectos sociales y otro a aspectos ambientales.
-    • Deseablemente, al menos uno negativo y otro positivo.
-    • Al menos uno que se integre de forma efectiva en el proyecto.
-    • Justificación de la no inclusión de ninguno.
+1. [ ] La importancia magnitud de dichos impactos en algún os GGII.
+2. [ ] La oportunidad que representa para crear valor compartido.
+3. [ ] La capacidad para poder incidir en ellos dentro del proyecto.
+4. [ ] La facilidad de profundizar en su análisis , ya sea cuantitativo o cualitativo.
+Seleccionar entre 2 y 6 impactos:
+- Al menos uno relativo a aspectos sociales y otro a aspectos ambientales.
+- Deseablemente, al menos uno negativo y otro positivo.
+- Al menos uno que se integre de forma efectiva en el proyecto.
+- Justificación de la no inclusión de ninguno.
 
 ## Fase 3 - Social: Investigación de algún impacto del ámbito social.
-[]  1. Documentar el diálogo directo con grupos de interés, al menos uno “tradicional” y al menos uno “no tradicional”.
-[]  2. Documentar la evaluación directa del producto con grupos de interés.
-[]  3. Trabajo en profundidad sobre algún dilema ético relacionado con el proyecto.
-[]  4. Preparación de un debate sobre algún aspecto controvertido relacionado con el proyecto.
+1. [ ] Documentar el diálogo directo con grupos de interés, al menos uno “tradicional” y al menos uno “no tradicional”.
+2. [ ] Documentar la evaluación directa del producto con grupos de interés.
+3. [ ] Trabajo en profundidad sobre algún dilema ético relacionado con el proyecto.
+4. [ ] Preparación de un debate sobre algún aspecto controvertido relacionado con el proyecto.
 
 ------------------------------------------------------------------------------------------------------------------------
 
