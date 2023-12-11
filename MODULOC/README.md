@@ -28,6 +28,7 @@
 2. [ ] La oportunidad que representa para crear valor compartido.
 3. [ ] La capacidad para poder incidir en ellos dentro del proyecto.
 4. [ ] La facilidad de profundizar en su análisis , ya sea cuantitativo o cualitativo.
+
 Seleccionar entre 2 y 6 impactos:
 - Al menos uno relativo a aspectos sociales y otro a aspectos ambientales.
 - Deseablemente, al menos uno negativo y otro positivo.
