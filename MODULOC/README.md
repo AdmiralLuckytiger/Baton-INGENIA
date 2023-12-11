@@ -2,7 +2,7 @@
 ### Descripcion del trabajo de sostenibilidad. Fases del trabajo.
 
 ## Fase inicial: Descripción del contexto e identificación de los grupos de interés y ámbitos de sostenibilidad del Ingenia.
-1. [ ] Determinar la perspectiva desde la que se quiere realizar el análisis: producto, proyecto, organización, empresa, política,….).
+1. [X] Determinar la perspectiva desde la que se quiere realizar el análisis: producto, proyecto, organización, empresa, política,….).
 2. [ ] Identificar los grupos de interés a lo largo de las fases del ciclo de vida que se haya elegido considerar.
 3. [ ] Identificar los ámbitos de sostenibilidad del sector y del proyecto concreto en las diferentes dimensiones. Se pueden considerar.
    - [ ] Posibles riesgos y daños que se puedan producir a lo largo del ciclo de vida.
