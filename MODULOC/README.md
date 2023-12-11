@@ -1,4 +1,4 @@
-# **Archivo INGENIA_Modulo_C:**
+# Archivo INGENIA_Modulo_C:
 ### Descripcion del trabajo de sostenibilidad. Fases del trabajo.
 
 ## Fase inicial: Descripción del contexto e identificación de los grupos de interés y ámbitos de sostenibilidad del Ingenia.
@@ -43,4 +43,37 @@ Seleccionar entre 2 y 6 impactos:
 
 ------------------------------------------------------------------------------------------------------------------------
 
-# **Archivo** Sostenibilidad_Ambiental_Nov-23: Descripcion tareas de cada fase del trabajo. Herramientas disponibles.
+# Archivo Sostenibilidad_Ambiental_Nov-23:
+### Descripcion tareas de cada fase del trabajo. Herramientas disponibles. Normativas Gestion Ambiental
+
+1. [ ] OBJETIVOS.
+   - Ser conscientes de las implicaciones ambientales de cualquier producto, proceso o servicio:
+   - Entender el marco conceptual para la identificación y evaluación de impactos ambientales
+   - Conocer las categorías o problemáticas ambientales más relevantes
+   - Entender la problemática en relación a la valoración de impactos
+2. [ ] MARCO CONCEPTUAL. APROXIMACIÓN AL ACV.
+   - Etapas de un ACV (Analisis del Ciclo de Vida)
+      1. Definición del objetivo y alcance
+      2. Inventario de Ciclo de Vida (ICV)
+      3. Evaluación de impactos ambientales del ciclo de vida (EICV)
+      4. Interpretación de los resultados
+3. [ ] ORIENTACIÓN SOBRE EL TRABAJO.
+   - Diagrama de flujo
+      - Fromteras geograficas y temporales
+      - Limitaciones del estudio 
+   - Identificación de las entradas y salidas del sistema
+      - Consumo de materias primas
+      - Consumo de energia
+      - Emisiones atmosféricas
+      - Emisiones al agua
+      - Emisiones al suelo
+      - Generación de residuos
+   - Identificación y justificación de las categorías de impacto más relevantes (Metodologia ReCiPe)
+   - Naturaleza y cuantificacion de los impactos:
+      - Clasificacion: agrupar las salidas en categorías de impacto
+      - Caracterizacion: definición de indicadores de categoría de impacto y unidades que permitan cuantificar los flujos en cada categoría. Definir factores de caracterización
+      - Valoracion: normalización y ponderación de los índices para agregar los resultados y obtener una evaluación global. **SOLO LOS RELEVANTES**
+   - Naturaleza de los resultados:
+      - Resaltar los aspectos más significativos identificados y con qué etapas del producto se relacionan
+      - Discutir las conclusiones en el contexto de las limitaciones del estudio tanto por limitaciones metodológicas (fronteras del sistema, etc.) como la incertidumbre de los datos
+      - Demostrar o justificar cómo el resultado de este análisis se ve reflejado en el diseño del producto / proceso final
