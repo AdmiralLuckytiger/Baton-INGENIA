@@ -1,0 +1,30 @@
+				
+				BILL OF MATERIAL
+
+
+========================== COMPONENTS OF THE PROTOTYPE =======================================================================
+
+	| 	COMPONENT	| UNIDADES |	PROVIDER	|	RS	|	DIGIKEY		|    	OTROS          |  	PRECIO 		|
+									
+		ADXL335		      X2	ADAFRUIT		NO	      1597-1181-ND           ADAFRUIT    		9,94Euros
+		LSM6DSO32	      X1	ADAFRUIT	     206-6060	  497-STEVAL-MKI221V1-ND     ADAFRUIT		       19,48Euros
+	   Speaker (8 Ohm/ 5W)	      X2	ADAFRUIT	     690-3693		  NO		       NO		       24,58Euros
+	   RASPBERRY PI B	      X1	RASPBERRY	     137-3331	    2648-sc0022-ND           RASPLPC.ES		       53,93Euros
+	   ARDUINO MEGA               X1	ARDUINO		     715-4084	    1050-1049-ND    	     ARDUINO		       49,55Euros
+	   TIRA DE LEDS 	      5M	    *			NO		  NO                 AMAZON (WS2812B 5)	       ~30Euros
+	   MOTOR DC		      X2	    *		        NO        1670-VZ43FCB5640007/LTR-ND    NO		        2,67Euros
+	   MICRO SD		      X1            * 		     203-4765		  NO   			NO			8Euros
+	
+========================== COMPONENTS OF THE PRODUCT ==========================================================================
+
+	|	COMPONENT	| UNIDADES |	PROVIDER	|
+		
+
+=================================== NOTAS =====================================================================================
+
+	(*) El material es facilitado por los tutores.
+
+
+
+
+
