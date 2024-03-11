@@ -12,7 +12,7 @@
 	   RASPBERRY PI B	      X1	RASPBERRY	     137-3331	    2648-sc0022-ND           RASPLPC.ES		       53,93Euros
 	   ARDUINO MEGA               X1	ARDUINO		     715-4084	    1050-1049-ND    	     ARDUINO		       49,55Euros
 	   TIRA DE LEDS 	      5M	    *			NO		  NO                 AMAZON (WS2812B 5)	       ~30Euros
-	   MOTOR DC		      X2	    *		        NO        1670-VZ43FCB5640007/LTR-ND    NO		        2,67Euros
+	   MOTOR DC		      X2	    *		        NO        VZ43FCB5640007L/LTR-ND    NO		        2,67Euros
 	   MICRO SD		      X1            * 		     203-4765		  NO   			NO			8Euros
 	
 ========================== COMPONENTS OF THE PRODUCT ==========================================================================
